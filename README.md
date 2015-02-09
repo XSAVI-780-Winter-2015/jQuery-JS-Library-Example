@@ -1,1 +1,1 @@
-# HTML-CSS-Examples
+# jQuery-JS-Library-Example
